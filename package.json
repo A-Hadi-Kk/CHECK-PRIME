@@ -1,0 +1,17 @@
+{
+  "name": "ahk-check-prime",
+  "version": "1.0.0",
+  "description": "Enter a number and check whether it is prime or not",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
